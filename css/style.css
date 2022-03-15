@@ -1,0 +1,30 @@
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+      background: white;
+    }
+
+    .container-fluid {
+      text-align: center;
+      background: #eee;
+    }
+
+    a {
+      color: #477ca7;
+      text-align: center;
+    }
+
+    .img-fluid {
+      background: white;
+      padding-bottom: 20px;
+      align-items: center;
+      padding: 5px;
+    }
+
+    h1 {
+      padding-top: 5%;
+      font-weight: bold;
+    }
+
+    li {
+      margin: 16px;
+    }
